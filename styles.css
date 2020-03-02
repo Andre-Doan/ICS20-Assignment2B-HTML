@@ -1,0 +1,48 @@
+.TimsBerner {
+  font-size: 40px;
+  margin: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  text-align: center;
+  border: 3px solid green;
+  background-color:Blue;
+  border-style: dashed;
+  border-color: black;
+  padding:25px;
+  padding-bottom: 25px;
+  padding-left:25px;
+  padding-right:25px;
+}
+
+.paragraphs {
+  font-size:40px;
+  background-color:Blue;
+  text-align: center;
+  border: 3px solid green;
+  margin: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  border-style: solid;
+  border-color: black;
+  padding:25px;
+  padding-bottom: 25px;
+  padding-left:25px;
+  padding-right:25px;
+}
+
+.bodyy {
+  background-color: red;
+  margin: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  text-align: center;
+  border: 3px solid green;
+  padding:25px;
+  padding-bottom: 25px;
+  padding-left:25px;
+  padding-right:25px;
+}
+
